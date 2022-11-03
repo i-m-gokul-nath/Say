@@ -19,7 +19,7 @@ Speach recognition using window's tool kit
 Storing Speaches in MongoDb database
 ```
 
-![image](https://user-images.githubusercontent.com/50829119/120904541-69469b00-c66a-11eb-861b-1816362818cc.png)
+![image]()
 
 ## Running on Local System
 
