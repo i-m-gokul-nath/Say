@@ -82,7 +82,7 @@ efficiency. In this case Multer is used to handle profile images and also to ens
 Passport is authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped into any Express-based web application. A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
 
 ## Page View
-![image](https://user-images.githubusercontent.com/50829119/124012430-c7169a80-d9fe-11eb-8558-8aed2f04577d.png)
+![image]()
 
 
 
